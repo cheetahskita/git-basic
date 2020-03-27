@@ -1,1 +1,2 @@
 Hello world!
+Will this change update in Visual Studio?
